@@ -1,0 +1,20 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.GenerateResource.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\Pexeso\Pexeso\obj\Debug\Pexeso.PexesoForm.resources
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.PexesoForm.resources
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+C:\Users\Lukas\Desktop\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
