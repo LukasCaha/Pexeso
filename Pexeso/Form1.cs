@@ -12,7 +12,7 @@ namespace Pexeso
 {
     public partial class PexesoForm : Form
     {
-        const int N = 2;
+        const int N = 6;
 
         enum Stav { START, HRA, JEDNA, DVE, KONEC };
         Stav stav;
